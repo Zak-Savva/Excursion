@@ -1,26 +1,36 @@
 * {
     font-family: Verdana, Tahoma, sans-serif;
     background-color: black;
-    text-align: center;
 }
 header {
     font-weight: normal;
     font-size: 50px;
     color: white;
+    text-align: center;
 }
 h2 {
     font-weight: 300;
     font-size: 32px;
     color: white;
+    text-align: center;
 }
 a p {
     color: aquamarine;
+    text-align: center;
 }
 p {
     font-size: 21px;
     color: gray;
+    text-align: center;
 }
 footer {
     text-align: right;
     color: grey;
+}
+video {
+    display: block;
+    margin: auto;
+}
+image {
+    display: block;
 }
